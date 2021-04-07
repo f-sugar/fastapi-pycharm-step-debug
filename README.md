@@ -64,6 +64,7 @@ $ make down
 ![alt](./images/8.png)
 
 - 実行する対象に `api` を選択。
+![alt](./images/9.png)
 
 - デバッグアイコンをクリックすると、コンテナが起動する
 ![alt](./images/10.png)
